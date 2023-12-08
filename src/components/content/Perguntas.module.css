@@ -1,0 +1,30 @@
+.container {
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 10px;
+}
+.perguntaContainer {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.perguntaContainer:hover {
+  background-color: #f8f8f8;
+}
+
+.pergunta {
+  font-weight: bold;
+}
+
+.dataPublicacao {
+  font-size: 0.8em;
+  color: #777;
+}
+
+.resposta {
+  font-style: italic;
+  color: #555;
+}
+

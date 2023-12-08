@@ -1,0 +1,24 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid lightgray;
+  margin: 2px;
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  font-size: 0.7em;
+}
+
+.cardInfo {
+  margin: 0;
+  padding: 0;
+}
+
+.cardFooter {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.6em;
+}

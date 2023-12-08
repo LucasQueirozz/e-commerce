@@ -1,0 +1,18 @@
+.imgProduto {
+  width: 98vw;
+  height: auto;
+}
+
+.imgControl {
+  /* width: 99vw; */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 10px 5px;
+  border-bottom: 1px solid lightgray;
+}
+
+.imgMinGaleria {
+  flex-shrink: 1;
+  width: 40px;
+}
